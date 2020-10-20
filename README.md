@@ -14,6 +14,7 @@ I decided to follow this MOOC because it provides both foundational knowledge of
 Learn the basics of computations in TensorFlow, the Keras API and how to define simple neural networks.
 ##### Part 2 - Music Generation with RNNs
 Build a Recurrent Neural Network (RNN) to generate a brand new music file that has never been heard before. We used a "character RNN" to predict the next character of a sheet music in ABC notation.
+
 <br/>
 
 #### 2. Computer Vision
@@ -21,8 +22,9 @@ Build a Recurrent Neural Network (RNN) to generate a brand new music file that h
 Build and train a Convolutional Neural Network (CNN) for classification of handwritten digits from the famous [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
 ##### Part 2 - Debiasing Facial Detection Systems
 Explore two prominent aspects of applied deep learning: facial detection and algorithmic bias.
-We build a facial detection model that learns the _latent variables_ underlying face image datasets and uses this to adaptively re-sample the training data, thus mitigating any biases that may be present in order to train a _debiased_ model.
+We build a facial detection model that learns the _latent variables_ underlying face image datasets and uses this to adaptively re-sample the training data, thus mitigating any biases that may be present in order to train a _debiased_ model.<br/>
 [Related paper](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
+
 <br/>
 
 #### 3. Reinforcement Learning
